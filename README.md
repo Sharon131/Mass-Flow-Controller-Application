@@ -15,7 +15,7 @@ Connection is made by RS232 port.
 Projekt na zajęcia z Programowania Obiektowego. Zdalne sterowanie przepływomierzem firmy Brooks Instrument.
 
 ## Technologies
-Language: C++11
+Language: C++11    
 Used API: WinApi
 
 ## Features
@@ -24,8 +24,8 @@ What you can do through this app:
 * update settings to Mass Flow Controller (Blending, Batching, Set Point, set Units etc.)
 
 What could be improved:   
-* if cable is disconnected from controller after making connection, programm will not see that or will even crash. In that case it is needed to close the programm and then open it once again
-* in case of disconnetcting cable from computer after making connection, it is needed to close the programm and open it once again
+* if cable is disconnected from controller after making connection, program will not see that or will crash. In that case it is needed to close the program and then open it once again
+* in case of disconnetcting cable from computer after making connection, it is needed to close the program and open it once again
 
 To-do's:    
 * add ability to save data to text file
@@ -38,4 +38,4 @@ Project currently is not continued.
 
 Website with more informaton about the controller: [here](https://www.brooksinstrument.com/en/products/accessories-software/secondary-electronics/0250-power-supply "Brooks Instruments Website")    
 Documentation of the controller: [here](../master/PO_dokumenacja_sprzetu.pdf)   
-Polish documentation of the programm: [here](../master/Dokumentacja_PO.pdf)   
+Polish documentation of the program: [here](../master/Dokumentacja_PO.pdf)   
